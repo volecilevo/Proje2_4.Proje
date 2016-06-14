@@ -37,7 +37,7 @@ WindowHandle = 0, mouseX = 0, mouseY = 0;
 
 //SceneNode* pad1;
 //Light* light;
-
+// ffewj
 Camera *camera;
 
 Scene* scene;
